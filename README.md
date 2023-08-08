@@ -5,3 +5,6 @@
 - 📫 Se quiser entrar em contato, basta me chamar pelos seguintes indereços: 
 Linkedin:https://www.linkedin.com/in/victorhugoalmeida/
 // Email: victorhugoalmeid@gmail.com
+
+
+![snake gif](https://github.com/victorhugoalmeid/readme/blob/output/github-contribution-grid-snake.svg)
