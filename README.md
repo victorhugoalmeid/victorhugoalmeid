@@ -7,4 +7,4 @@ Linkedin:https://www.linkedin.com/in/victorhugoalmeida/
 // Email: victorhugoalmeid@gmail.com
 
 
-![snake gif](https://github.com/victorhugoalmeid/readme/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/victorhugoalmeid/victorhugoalmeid/blob/output/github-contribution-grid-snake.svg)
