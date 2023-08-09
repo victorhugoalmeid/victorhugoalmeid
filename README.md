@@ -10,5 +10,4 @@
 - 📫 Se quiser entrar em contato, basta me chamar pelos seguintes indereços: 
 - Linkedin:https://www.linkedin.com/in/victorhugoalmeida/
 - Email: victorhugoalmeid@gmail.com
-
 ![Snake animation](https://github.com/victorhugoalmeid/victorhugoalmeid/blob/victorhugoalmeid-patch-1/github-contribution-grid-snake.svg)
