@@ -9,7 +9,7 @@
 - 📚 &nbsp; Personal blog: [in progress...]
 - 🏆 &nbsp; Winner of Hackathon XYZ 2019 at the University of the Amazon.
 - 📫 &nbsp; If you'd like to get in touch, feel free to reach out to me at the following addresses:
-- Linkedin:https://www.linkedin.com/in/victorhugoalmeida/
+- Linkedin:https://www.linkedin.com/in/victorhugoalmeid/
 - Email: victorhugoalmeid@gmail.com
 
 </div>
